@@ -1,20 +1,10 @@
 <script>
   let titulo = "LYNXE IBERIKO";
 
-  let menu = [
-    {
-      titulo:"item 1",
-      href:"https://neocities.org",
-    },
-    {
-      titulo:"item 2",
-      href:"https://ebird.org/argentina/home",
-    },
-    {
-      titulo:"item 3",
-      href:"http://www.eakringbirds.com/eakringbirds6/insectinfocustenebriomolitor.htm",
-    },
-  ]
+  let dynamic = "heyyyyyyyyyyyyyy";
+
+  export let menu = [];
+  
 </script>
 
 <header class="text-gray-600 body-font">
